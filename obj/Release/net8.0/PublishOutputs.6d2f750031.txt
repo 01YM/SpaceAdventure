@@ -1,0 +1,12 @@
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\SpaceAdventureApi.exe
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\SpaceAdventureApi.dll
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\SpaceAdventureApi.deps.json
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\SpaceAdventureApi.runtimeconfig.json
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\SpaceAdventureApi.pdb
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ymirz\Documents\SpaceAdventureApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

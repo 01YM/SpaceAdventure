@@ -31,3 +31,4 @@ C:\Users\ymirz\Documents\SpaceAdventureApi\obj\Debug\net8.0\refint\SpaceAdventur
 C:\Users\ymirz\Documents\SpaceAdventureApi\obj\Debug\net8.0\SpaceAdventureApi.pdb
 C:\Users\ymirz\Documents\SpaceAdventureApi\obj\Debug\net8.0\SpaceAdventureApi.genruntimeconfig.cache
 C:\Users\ymirz\Documents\SpaceAdventureApi\obj\Debug\net8.0\ref\SpaceAdventureApi.dll
+C:\Users\ymirz\Documents\SpaceAdventureApi\obj\Debug\net8.0\SpaceAdventureApi.sourcelink.json
