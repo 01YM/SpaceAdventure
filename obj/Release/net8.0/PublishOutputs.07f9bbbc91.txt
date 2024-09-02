@@ -1,0 +1,12 @@
+C:\Program Files\dotnet\myapp\SpaceAdventureApi.exe
+C:\Program Files\dotnet\myapp\appsettings.Development.json
+C:\Program Files\dotnet\myapp\appsettings.json
+C:\Program Files\dotnet\myapp\SpaceAdventureApi.dll
+C:\Program Files\dotnet\myapp\SpaceAdventureApi.deps.json
+C:\Program Files\dotnet\myapp\SpaceAdventureApi.runtimeconfig.json
+C:\Program Files\dotnet\myapp\SpaceAdventureApi.pdb
+C:\Program Files\dotnet\myapp\Microsoft.AspNetCore.OpenApi.dll
+C:\Program Files\dotnet\myapp\Microsoft.OpenApi.dll
+C:\Program Files\dotnet\myapp\Swashbuckle.AspNetCore.Swagger.dll
+C:\Program Files\dotnet\myapp\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Program Files\dotnet\myapp\Swashbuckle.AspNetCore.SwaggerUI.dll

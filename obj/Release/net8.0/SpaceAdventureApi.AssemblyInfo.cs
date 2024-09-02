@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceAdventureApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b1db069116b181d78fbc41e2c7784d92a1e263")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ebb465df6404914ad92d408a4d074baec1b8a55")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceAdventureApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceAdventureApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

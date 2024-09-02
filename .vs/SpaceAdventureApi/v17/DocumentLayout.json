@@ -38,8 +38,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T06:35:14.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T06:35:14.271Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T06:35:11.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T06:35:11.807Z"
             },
             {
               "$type": "Bookmark",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "SpaceAdventureApi.csproj",
               "ToolTip": "C:\\Users\\ymirz\\Documents\\SpaceAdventureApi\\SpaceAdventureApi.csproj",
               "RelativeToolTip": "SpaceAdventureApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-02T05:44:41.257Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T05:44:31.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T05:44:31.361Z"
             }
           ]
         }
